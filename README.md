@@ -20,7 +20,10 @@
 ## Usage
 
 ```sh
-python main.py
+python -m pip install tkinter
+python -m pip install request
+python -m pip install webbrowser
+python getip.pyc
 
 ```
 
