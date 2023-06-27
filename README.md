@@ -4,7 +4,7 @@
  <img src="https://img.shields.io/github/stars/cutipu/IP-tracker?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/IP-tracker?color=%239999FF&style=for-the-badge"/> &nbsp;
   <a href="#"><img alt="Hasoki last commit (main)" src="https://img.shields.io/github/last-commit/cutipu/IP-tracker/main?color=green&style=for-the-badge"></a>
- <a href="https://github.com/cutipu/HACK-TAI-XIU/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/cutipu/IP-tracker?color=purple&style=for-the-badge"></a>
+ <a href="https://github.com/cutipu/IP-tracker/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/cutipu/IP-tracker?color=purple&style=for-the-badge"></a>
    <img src="https://img.shields.io/github/license/cutipu/IP-tracker?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 
 ```sh
