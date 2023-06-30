@@ -1,5 +1,5 @@
 <div align=center>
-<p align="center"><img src="https://img.upanh.tv/2023/06/27/12312.png?compress=1&resize=400x300" width="500px" height="300px" alt="ddos"></p>
+<p align="center"><img src="https://img.upanh.tv/2023/06/27/12312.png?compress=1&resize=300x300" width="500px" height="300px" alt="ddos"></p>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/IP-tracker?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/IP-tracker?color=%239999FF&style=for-the-badge"/> &nbsp;
